@@ -1,210 +1,199 @@
-<!-- ============ REPLACE: YOUR NAME, USERNAME, links ============ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:8B0000,100:E50914&height=260&section=header&text=YOUR%20NAME&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=BS%20Computer%20Science%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=20" />
+<!--
+  Before committing:
+    1. Repo name must be exactly: hamidmumtaz18   (Settings -> Repository name)
+    2. Upload the "assets" folder (divider.svg, tech-marquee.svg) into the repo root
+    3. Replace YOUR_LINKEDIN_USERNAME and REPO_NAME_1 / REPO_NAME_2
+-->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0A1128,100:00A8FF&height=260&section=header&text=Hamid%20Mumtaz&fontSize=58&fontColor=FFFFFF&stroke=00A8FF&strokeWidth=1&fontAlignY=36&animation=twinkling&desc=BSCS%20Student%20%C2%B7%20Aspiring%20Software%20Developer&descSize=18&descColor=9FD8FF&descAlignY=58" alt="Hamid Mumtaz banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF1E1E&center=true&vCenter=true&width=700&height=60&lines=%3E+whoami+%E2%86%92+BSCS+Student+%F0%9F%8E%93;%3E+compiling+dreams+into+code...;%3E+turning+coffee+into+algorithms+%E2%98%95;%3E+while(alive)+%7B+learn();+build();+repeat();+%7D;%3E+open+to+collabs+%26+internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00A8FF&center=true&vCenter=true&repeat=true&width=640&height=50&lines=Computer+Science+Student;Aspiring+Software+Engineer;Flutter+App+Developer;AI+%26+Technology+Enthusiast;Future+Software+Engineer" alt="Typing headline" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE%20VIEWS&color=E50914&style=for-the-badge&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/BSCS-Computer%20Science-E50914?style=for-the-badge&labelColor=0D0D0D&logo=gnometerminal&logoColor=E50914" />
-<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=E50914&labelColor=0D0D0D&logo=github" />
+<br/>
+
+<img src="https://img.shields.io/badge/BSCS-Student-00A8FF?style=for-the-badge&labelColor=0A1128" alt="BSCS Student" />
+<img src="https://img.shields.io/badge/Flutter-Developer-00A8FF?style=for-the-badge&logo=flutter&logoColor=00A8FF&labelColor=0A1128" alt="Flutter Developer" />
+<img src="https://img.shields.io/badge/DSA-Learner-00A8FF?style=for-the-badge&labelColor=0A1128" alt="DSA Learner" />
+<img src="https://img.shields.io/badge/AI-Enthusiast-00A8FF?style=for-the-badge&labelColor=0A1128" alt="AI Enthusiast" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
 
-## 🩸 `~/about-me.sh`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=About+Me" alt="About Me" />
+</div>
 
-```bash
-#!/bin/bash
-# ┌──────────────────────────────────────────┐
-# │   S Y S T E M   P R O F I L E   L O A D   │
-# └──────────────────────────────────────────┘
+<div align="center">
 
-NAME="HAMID MUMTAZ"
-DEGREE="BS Computer Science"
-UNIVERSITY="Your University"
-SEMESTER="Your Current Semester"
-FOCUS=("Data Structures" "Web Development" "AI / ML" "Problem Solving")
-FUEL="Coffee ☕ + Late-night debugging 🌙"
-MOTTO="Make it work. Make it right. Make it fast."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=5CC8FF&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=150&lines=%3E+whoami;Hamid+Mumtaz+%7C+BSCS+Student;%3E+stack;Flutter+%C2%B7+Dart+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+Python;%3E+goal;Build+innovative+real-world+software" alt="Terminal intro" />
 
-echo "Hello, World. I'm $NAME 👋"
-```
+</div>
+
+<br/>
+
+I'm a Computer Science student who builds things to truly understand them. I care about strong fundamentals — programming, data structures & algorithms — and I put them to work by shipping real mobile and web projects.
+
+My goal is clear: grow into a skilled software engineer and create innovative products that solve real problems.
+
+<div align="center">
 
 <table>
-<tr>
-<td width="50%">
-
-### 🖤 Who Am I
-- 🎓 **BSCS** student @ *Your University*
-- 🔭 Currently building: *your project*
-- 🌱 Learning: *DSA, Web Dev, AI/ML*
-- 🤝 Looking to collaborate on *open source*
-- ⚡ Fun fact: *I debug in my dreams*
-
-</td>
-<td width="50%">
-
-### ❤️ Quick Stats
-```text
- ▸ Role      : CS Undergrad
- ▸ Mode      : Learning + Building
- ▸ Languages : C++ · Python · JS
- ▸ Goal      : Software Engineer
- ▸ Status    : ██████████░░ 85% caffeinated
-```
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="20%"><b>Programming</b><br/><sub>Clean, readable code</sub></td>
+    <td align="center" width="20%"><b>App Development</b><br/><sub>Flutter &amp; Dart</sub></td>
+    <td align="center" width="20%"><b>Web Development</b><br/><sub>HTML, CSS, JavaScript</sub></td>
+    <td align="center" width="20%"><b>Artificial Intelligence</b><br/><sub>Concepts &amp; tools</sub></td>
+    <td align="center" width="20%"><b>DSA</b><br/><sub>Problem solving</sub></td>
+  </tr>
 </table>
 
-## 🔴 Tech Arsenal
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Tech+Stack" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,linux,vscode,figma&perline=9&theme=dark" />
+<img src="assets/tech-marquee.svg" alt="Scrolling tech stack" width="100%" />
 
-</div>
-
-## 🎓 My BSCS Journey `roadmap.exe`
-
-```text
- SEM 1-2  ████████████████████  Programming Fundamentals · Calculus · Discrete Math
- SEM 3-4  ████████████████░░░░  OOP · Data Structures · Digital Logic · Databases
- SEM 5-6  ████████████░░░░░░░░  Algorithms · OS · Networks · Software Engineering
- SEM 7-8  ██████░░░░░░░░░░░░░░  AI/ML · Web/Mobile · Final Year Project
- 
- >> Progress: loading future... [■■■■■■■■■■■■□□□□□□□□] 60%
-```
-
-| 📚 Core Subject | 🧠 What It Taught Me | 🔥 Status |
-|:--|:--|:--:|
-| Data Structures & Algorithms | Think in efficiency, not just solutions | ![](https://img.shields.io/badge/-Mastering-E50914?style=flat-square&labelColor=0D0D0D) |
-| Object Oriented Programming | Model the real world in code | ![](https://img.shields.io/badge/-Done-8B0000?style=flat-square&labelColor=0D0D0D) |
-| Database Systems | Data is the new oil | ![](https://img.shields.io/badge/-Done-8B0000?style=flat-square&labelColor=0D0D0D) |
-| Operating Systems | What happens under the hood | ![](https://img.shields.io/badge/-In%20Progress-FF1E1E?style=flat-square&labelColor=0D0D0D) |
-| Artificial Intelligence | Teaching machines to think | ![](https://img.shields.io/badge/-Exploring-FF1E1E?style=flat-square&labelColor=0D0D0D) |
-
-## 💻 `class Me` — A CS Student in Code
-
-```python
-class BSCSStudent:
-    def __init__(self):
-        self.name = "Your Name"
-        self.degree = "BS Computer Science"
-        self.skills = ["C++", "Python", "JavaScript", "DSA", "SQL"]
-        self.coffee_level = float("inf")
-        self.bugs_fixed = 10_000
-        self.bugs_created = 10_001  # still debugging
-
-    def daily_routine(self):
-        while True:
-            self.learn()
-            self.code()
-            self.break_something()
-            self.google_the_error()
-            self.fix_it()
-            # Stack Overflow is a valid teammate
-
-    def goal(self):
-        return "Build software that matters 🚀"
-```
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=0D0D0D&title_color=E50914&icon_color=FF1E1E&text_color=FFFFFF&border_color=8B0000&ring_color=E50914" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=false&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF&border_color=8B0000" />
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&background=0D0D0D&ring=E50914&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&stroke=8B0000&border=8B0000" />
-
-</div>
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D0D0D&color=FF1E1E&line=E50914&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&title_color=E50914" width="100%" />
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" width="100%" />
-
-<!-- Setup: add the snake.yml workflow from this download to .github/workflows/ -->
-
-## 🚀 Featured Projects
+<br/>
 
 <table>
-<tr>
-<td width="33%" align="center">
-
-### 🔴 Project One
-*Short description of your best project.*
-
-![](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=E50914)
-![](https://img.shields.io/badge/ML-0D0D0D?style=flat-square&logoColor=E50914)
-
-[**View →**](https://github.com/USERNAME/project-one)
-
-</td>
-<td width="33%" align="center">
-
-### ⚫ Project Two
-*Short description of another project.*
-
-![](https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=E50914)
-![](https://img.shields.io/badge/Node-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=E50914)
-
-[**View →**](https://github.com/USERNAME/project-two)
-
-</td>
-<td width="33%" align="center">
-
-### 🩸 Final Year Project
-*Your FYP or dream project.*
-
-![](https://img.shields.io/badge/C++-0D0D0D?style=flat-square&logo=cplusplus&logoColor=E50914)
-![](https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=mysql&logoColor=E50914)
-
-[**View →**](https://github.com/USERNAME/fyp)
-
-</td>
-</tr>
+  <tr>
+    <th align="center">Languages</th>
+    <th align="center">Web</th>
+    <th align="center">Mobile &amp; Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,java,py,dart&theme=dark" alt="C++, Java, Python, Dart" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github&theme=dark" alt="Flutter, Android Studio, Git, GitHub" /></td>
+  </tr>
 </table>
-
-<!-- Auto pinned-style repo cards -->
-<div align="center">
-
-<a href="https://github.com/USERNAME/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-1&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF&icon_color=FF1E1E&border_color=8B0000" /></a>
-<a href="https://github.com/USERNAME/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-2&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF&icon_color=FF1E1E&border_color=8B0000" /></a>
 
 </div>
 
-## 🎯 2026 Goals
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
 
-- [x] Survive another semester 😅
-- [x] Push code to GitHub consistently
-- [ ] Solve 200+ LeetCode problems
-- [ ] Build & deploy a full-stack project
-- [ ] Contribute to open source
-- [ ] Land an internship 🚀
-
-## 📡 Let's Connect
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=GitHub+Analytics" alt="GitHub Analytics" />
+</div>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E50914" /></a>
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E50914" /></a>
-<a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=x&logoColor=E50914" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=E50914" /></a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamidmumtaz18&show_icons=true&hide_border=false&border_radius=12&bg_color=0A1128&title_color=00A8FF&icon_color=00A8FF&text_color=C9D1D9&border_color=12306B&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidmumtaz18&layout=compact&langs_count=6&border_radius=12&bg_color=0A1128&title_color=00A8FF&text_color=C9D1D9&border_color=12306B" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=hamidmumtaz18&hide_border=false&border_radius=12&background=0A1128&border=12306B&stroke=12306B&ring=00A8FF&fire=00A8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00A8FF&sideLabels=8BA3C7&dates=8BA3C7" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=E50914&center=true&vCenter=true&width=600&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;%22First,+solve+the+problem.+Then,+write+the+code.%22;%22Code+is+poetry+written+in+logic.%22" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidmumtaz18&bg_color=0A1128&color=00A8FF&line=00A8FF&point=FFFFFF&area=true&area_color=00A8FF&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/hamidmumtaz18/hamidmumtaz18/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,50:8B0000,100:000000&height=140&section=footer&animation=fadeIn" />
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Featured+Projects" alt="Featured Projects" />
+</div>
+
+<!-- Replace REPO_NAME_1 / REPO_NAME_2 with real repository names. Duplicate a cell to add more. -->
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/hamidmumtaz18/REPO_NAME_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamidmumtaz18&repo=REPO_NAME_1&bg_color=0A1128&title_color=00A8FF&text_color=C9D1D9&icon_color=00A8FF&border_color=12306B&border_radius=12" alt="Project 1" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hamidmumtaz18/REPO_NAME_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamidmumtaz18&repo=REPO_NAME_2&bg_color=0A1128&title_color=00A8FF&text_color=C9D1D9&icon_color=00A8FF&border_color=12306B&border_radius=12" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Connect" alt="Connect" />
+</div>
+
+<div align="center">
+
+<a href="https://github.com/hamidmumtaz18">
+  <img src="https://img.shields.io/badge/GitHub-hamidmumtaz18-0A1128?style=for-the-badge&logo=github&logoColor=00A8FF&labelColor=000000" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A1128?style=for-the-badge&logo=linkedin&logoColor=00A8FF&labelColor=000000" alt="LinkedIn" />
+</a>
+<a href="mailto:rajahamid1818@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-0A1128?style=for-the-badge&logo=gmail&logoColor=00A8FF&labelColor=000000" alt="Gmail" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1800&color=9FD8FF&center=true&vCenter=true&repeat=true&width=520&height=60&multiline=true&lines=%22Talk+is+cheap.+Show+me+the+code.%22;%E2%80%94+Linus+Torvalds" alt="Talk is cheap. Show me the code. — Linus Torvalds" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hamidmumtaz18&label=Profile+Views&color=00A8FF&style=for-the-badge&labelColor=0A1128" alt="Profile views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamidmumtaz18&label=Visitors&countColor=%2300a8ff&labelStyle=none&style=for-the-badge" alt="Visitor counter" />
+
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Contact" alt="Contact" />
+</div>
+
+<div align="center">
+
+Open to learning opportunities, collaboration on interesting projects, and conversations with fellow developers.
+
+<br/>
+
+<a href="mailto:rajahamid1818@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=00A8FF&center=true&vCenter=true&repeat=true&width=460&height=40&lines=rajahamid1818%40gmail.com;Let%27s+build+something+great" alt="rajahamid1818@gmail.com" />
+</a>
+
+<a href="mailto:rajahamid1818@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rajahamid1818%40gmail.com-0A1128?style=for-the-badge&logo=gmail&logoColor=00A8FF&labelColor=000000" alt="Gmail" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0A1128,100:00A8FF&height=120&section=footer&reversal=true" alt="" width="100%" />
+
+</div>
