@@ -1,2 +1,1 @@
-# Hamid-Mumtaz
-Special repository
+README.md
