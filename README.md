@@ -1,13 +1,13 @@
 <!--
   Before committing:
     1. Repo name must be exactly: hamidmumtaz18   (Settings -> Repository name)
-    2. Replace YOUR_LINKEDIN_USERNAME with the part after linkedin.com/in/
-    3. Replace REPO_NAME_1 / REPO_NAME_2 with your real repository names
+    2. Upload the "assets" folder (divider.svg, tech-marquee.svg) into the repo root
+    3. Replace YOUR_LINKEDIN_USERNAME and REPO_NAME_1 / REPO_NAME_2
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0A1128,100:00A8FF&height=250&section=header&text=Hamid%20Mumtaz&fontSize=56&fontColor=FFFFFF&stroke=00A8FF&strokeWidth=1&fontAlignY=36&animation=twinkling&desc=BSCS%20Student%20%C2%B7%20Aspiring%20Software%20Developer&descSize=18&descColor=9FD8FF&descAlignY=58" alt="Hamid Mumtaz banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0A1128,100:00A8FF&height=260&section=header&text=Hamid%20Mumtaz&fontSize=58&fontColor=FFFFFF&stroke=00A8FF&strokeWidth=1&fontAlignY=36&animation=twinkling&desc=BSCS%20Student%20%C2%B7%20Aspiring%20Software%20Developer&descSize=18&descColor=9FD8FF&descAlignY=58" alt="Hamid Mumtaz banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00A8FF&center=true&vCenter=true&repeat=true&width=640&height=50&lines=Computer+Science+Student;Aspiring+Software+Engineer;Flutter+App+Developer;AI+%26+Technology+Enthusiast;Future+Software+Engineer" alt="Typing headline" />
@@ -15,32 +15,24 @@
 
 <br/>
 
-<a href="#about-me"><b>About</b></a> &nbsp;&middot;&nbsp;
-<a href="#tech-stack"><b>Stack</b></a> &nbsp;&middot;&nbsp;
-<a href="#github-analytics"><b>Analytics</b></a> &nbsp;&middot;&nbsp;
-<a href="#featured-projects"><b>Projects</b></a> &nbsp;&middot;&nbsp;
-<a href="#contact"><b>Contact</b></a>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/BSCS-Student-00A8FF?style=for-the-badge&labelColor=0A1128" alt="BSCS Student" />
 <img src="https://img.shields.io/badge/Flutter-Developer-00A8FF?style=for-the-badge&logo=flutter&logoColor=00A8FF&labelColor=0A1128" alt="Flutter Developer" />
 <img src="https://img.shields.io/badge/DSA-Learner-00A8FF?style=for-the-badge&labelColor=0A1128" alt="DSA Learner" />
 <img src="https://img.shields.io/badge/AI-Enthusiast-00A8FF?style=for-the-badge&labelColor=0A1128" alt="AI Enthusiast" />
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00A8FF,100:000000&height=2" width="100%" alt="" />
-
 </div>
 
-<h2 align="center">About Me</h2>
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=About+Me" alt="About Me" />
+</div>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=5CC8FF&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=150&lines=%3E+whoami;Hamid+Mumtaz+%7C+BSCS+Student;%3E+stack;Flutter+%C2%B7+Dart+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+Python;%3E+goal;Build+innovative+real-world+software" alt="Terminal intro" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=5CC8FF&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=150&lines=%3E+whoami;Hamid+Mumtaz+%7C+BSCS+Student;%3E+stack;Flutter+%C2%B7+Dart+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+Python;%3E+goal;Build+innovative+real-world+software" alt="Terminal intro" />
 
 </div>
 
@@ -65,12 +57,18 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00A8FF,100:000000&height=2" width="100%" alt="" />
+<img src="assets/divider.svg" alt="" width="100%" />
 </div>
 
-<h2 align="center">Tech Stack</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Tech+Stack" alt="Tech Stack" />
+</div>
 
 <div align="center">
+
+<img src="assets/tech-marquee.svg" alt="Scrolling tech stack" width="100%" />
+
+<br/>
 
 <table>
   <tr>
@@ -79,25 +77,21 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
     <th align="center">Mobile &amp; Tools</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,java,py,dart&theme=dark" alt="C++, Java, Python, Dart" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github&theme=dark" alt="Flutter, Android Studio, Git, GitHub" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,java,py,dart&theme=dark" alt="C++, Java, Python, Dart" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github&theme=dark" alt="Flutter, Android Studio, Git, GitHub" /></td>
   </tr>
 </table>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00A8FF,100:000000&height=2" width="100%" alt="" />
+<img src="assets/divider.svg" alt="" width="100%" />
 </div>
 
-<h2 align="center">GitHub Analytics</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=GitHub+Analytics" alt="GitHub Analytics" />
+</div>
 
 <div align="center">
 
@@ -112,21 +106,19 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidmumtaz18&bg_color=0A1128&color=00A8FF&line=00A8FF&point=FFFFFF&area=true&area_color=00A8FF&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" />
 
-</div>
-
-<h3 align="center">Contribution Snake</h3>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/hamidmumtaz18/hamidmumtaz18/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00A8FF,100:000000&height=2" width="100%" alt="" />
+<img src="assets/divider.svg" alt="" width="100%" />
 </div>
 
-<h2 align="center">Featured Projects</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Featured+Projects" alt="Featured Projects" />
+</div>
 
 <!-- Replace REPO_NAME_1 / REPO_NAME_2 with real repository names. Duplicate a cell to add more. -->
 
@@ -150,10 +142,12 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00A8FF,100:000000&height=2" width="100%" alt="" />
+<img src="assets/divider.svg" alt="" width="100%" />
 </div>
 
-<h2 align="center">Connect</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Connect" alt="Connect" />
+</div>
 
 <div align="center">
 
@@ -169,20 +163,22 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 
 <br/><br/>
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1800&color=9FD8FF&center=true&vCenter=true&repeat=true&width=520&height=60&multiline=true&lines=%22Talk+is+cheap.+Show+me+the+code.%22;%E2%80%94+Linus+Torvalds" alt="Talk is cheap. Show me the code. — Linus Torvalds" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=hamidmumtaz18&label=Profile+Views&color=00A8FF&style=for-the-badge&labelColor=0A1128" alt="Profile views" />
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamidmumtaz18&label=Visitors&countColor=%2300a8ff&labelStyle=none&style=for-the-badge" alt="Visitor counter" />
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00A8FF,100:000000&height=2" width="100%" alt="" />
-
 </div>
 
-<h2 align="center">Contact</h2>
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Contact" alt="Contact" />
+</div>
 
 <div align="center">
 
