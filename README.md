@@ -24,7 +24,7 @@
 # │   S Y S T E M   P R O F I L E   L O A D   │
 # └──────────────────────────────────────────┘
 
-NAME="Your Name"
+NAME="HAMID MUMTAZ"
 DEGREE="BS Computer Science"
 UNIVERSITY="Your University"
 SEMESTER="Your Current Semester"
