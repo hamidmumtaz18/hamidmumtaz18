@@ -1,9 +1,8 @@
 <!--
   Before committing:
     1. Repo name must be exactly: hamidmumtaz18   (Settings -> Repository name) and the repo must be Public
-    2. Upload the "assets" folder (divider.svg, tech-marquee.svg) into the repo root
-    3. Upload .github/workflows/snake.yml, then go to Actions -> "Generate Snake" -> Run workflow (creates the "output" branch for the snake image)
-    4. Replace YOUR_LINKEDIN_USERNAME and REPO_NAME_1 / REPO_NAME_2
+    2. Upload the "assets" folder (divider.svg, streak-flame.svg) into the repo root
+    3. Replace YOUR_LINKEDIN_USERNAME and REPO_NAME_1 / REPO_NAME_2
 -->
 
 <div align="center">
@@ -67,10 +66,6 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 
 <div align="center">
 
-<img src="assets/tech-marquee.svg" alt="Scrolling tech stack" width="100%" />
-
-<br/>
-
 <table>
   <tr>
     <th align="center">Languages</th>
@@ -101,15 +96,16 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 
 <br/>
 
+<img src="assets/streak-flame.svg" alt="Animated streak banner" width="100%" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=hamidmumtaz18&hide_border=false&border_radius=12&background=0D0D0D&border=5A0F0F&stroke=5A0F0F&ring=FF1E1E&fire=FF1E1E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E1E&sideLabels=B08A8A&dates=B08A8A" alt="GitHub streak" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidmumtaz18&bg_color=0D0D0D&color=FF1E1E&line=FF1E1E&point=FFFFFF&area=true&area_color=FF1E1E&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/hamidmumtaz18/hamidmumtaz18/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
 
