@@ -167,7 +167,8 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1800&color=FF9C9C&center=true&vCenter=true&repeat=true&width=520&height=60&multiline=true&lines=%22Talk+is+cheap.+Show+me+the+code.%22;%E2%80%94+Linus+Torvalds" alt="Talk is cheap. Show me the code. — Linus Torvalds" />
 
 <br/>
-
+<img src="https://raw.githubusercontent.com/hamidmumtaz18/hamidmumtaz18/main/assets/streak-flame.svg" alt="Animated streak banner" width="100%" /> 
+<br/>
 <img src="https://komarev.com/ghpvc/?username=hamidmumtaz18&label=Profile+Views&color=FF1E1E&style=for-the-badge&labelColor=0D0D0D" alt="Profile views" />
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamidmumtaz18&label=Visitors&countColor=%23ff1e1e&labelStyle=none&style=for-the-badge" alt="Visitor counter" />
 
@@ -186,7 +187,7 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 Open to learning opportunities, collaboration on interesting projects, and conversations with fellow developers.
 
 <br/>
-<img src="https://raw.githubusercontent.com/hamidmumtaz18/hamidmumtaz18/main/assets/streak-flame.svg" alt="Animated streak banner" width="100%" /> 
+
 
 <a href="mailto:rajahamid1818@gmail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=FF1E1E&center=true&vCenter=true&repeat=true&width=460&height=40&lines=rajahamid1818%40gmail.com;Let%27s+build+something+great" alt="rajahamid1818@gmail.com" />
