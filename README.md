@@ -186,6 +186,7 @@ My goal is clear: grow into a skilled software engineer and create innovative pr
 Open to learning opportunities, collaboration on interesting projects, and conversations with fellow developers.
 
 <br/>
+<img src="https://raw.githubusercontent.com/hamidmumtaz18/hamidmumtaz18/main/assets/streak-flame.svg" alt="Animated streak banner" width="100%" /> 
 
 <a href="mailto:rajahamid1818@gmail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=FF1E1E&center=true&vCenter=true&repeat=true&width=460&height=40&lines=rajahamid1818%40gmail.com;Let%27s+build+something+great" alt="rajahamid1818@gmail.com" />
