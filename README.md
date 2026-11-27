@@ -194,4 +194,3 @@ Open to learning opportunities, collaboration on interesting projects, and conve
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:2B0000,100:FF1E1E&height=120&section=footer&reversal=true" alt="" width="100%" />
 
 </div>
-
